@@ -34,7 +34,7 @@
         <repository>
             <id>nexus-releases</id>
             <!-- Must match server id in settings.xml -->
-            <url>http://http://13.53.144.210/:8081/repository/java-packages-private/</url>
+            <url>http://13.60.231.57:8081/repository/java-packages-private/</url>
         </repository>
     </distributionManagement>
 
